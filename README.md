@@ -1,2 +1,2 @@
-# Horrescope_Finder
+# Horoscope_Finder
  simple Horrescope Finder.
